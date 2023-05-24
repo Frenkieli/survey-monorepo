@@ -1,5 +1,6 @@
 import styles from './page.module.scss';
-import CookieConsentBar from '@cnyes/cookie-consent-bar';
+import { CookieConsentBar } from '@cnyes/shared-ui';
+
 export default async function Index() {
   /*
    * Replace the elements below with your own.

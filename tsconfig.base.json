@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@cnyes/cookie-consent-bar": ["libs/cookie-consent-bar/src/index.ts"]
+      "@cnyes/cookie-consent-bar": ["libs/cookie-consent-bar/src/index.ts"],
+      "@cnyes/shared-ui": ["libs/shared-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
