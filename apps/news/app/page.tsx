@@ -1,5 +1,4 @@
 import styles from './page.module.scss';
-import { CookieConsentBar } from '@cnyes/shared-ui';
 
 export default async function Index() {
   /*
@@ -16,7 +15,6 @@ export default async function Index() {
               <span> Hello there, </span>
               Welcome news 👋
             </h1>
-            <CookieConsentBar />
           </div>
 
           <div id="hero" className="rounded">
